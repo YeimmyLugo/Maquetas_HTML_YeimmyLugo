@@ -1,0 +1,65 @@
+/*Centro de Biotecnologia Agropecuaria
+Análisis y Desarrollo de Software
+FICHA: 2470980
+Autor: Yeimmy Katherine lugo Mora
+Fecha de creación: 04 de marzo de 2022
+Fecha de actualización: 05 de marzo de 2022*/
+
+body{
+    background-color: aliceblue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    margin-top: 50px;
+}
+
+header{
+    background-color: blueviolet;
+    margin: auto;
+    align-content: center;
+    font-family:'Trebuchet MS';
+    font-size: larger;
+    text-align: center;
+    padding: 30px;
+}
+
+nav{
+    background-color: chocolate;
+    margin: auto;
+    align-content: center;
+    font-family: 'Trebuchet MS';
+    font-size: larger;
+    text-align: center;
+    padding: 15px;
+}
+
+article{
+    background-color: darkmagenta;
+    margin: auto;
+    align-content: center;
+    font-family: 'Trebuchet MS';
+    font-size: larger;
+    text-align: center;
+    padding: 100px;
+}
+
+footer{
+    background-color: gold;
+    margin: auto;
+    align-content: center;
+    font-family: 'Trebuchet MS';
+    font-size: larger;
+    text-align: center;
+    padding: 20px;
+}
+/*backround color: se utilizo para dar color a un elemento.
+  text align: se utilizo para alinear los textos y los contenidos
+  width: se utilizo para determinar el ancho del area de contenido de un elemento.
+  margin left: se utilizo para establecer el margen izquierdo de un elemento especificando una longitud o un porcentaje.
+  margin right: se utilizo para establecer el margen derecho de un elemento especificando una longitud o un porcentaje.
+  align content: se utilizo para ajustar las líneas dentro de un contenedor flex cuando hay espacio extra en el eje transversal.
+  font size: se utilizo para el tamaño de la letra.
+  font family: se utilizo para dar un tipo de letra al texto.
+  height: se utilizo para especificar la altura del area de contenido de un elemento.
+  padding: se utilizo para establecer el espacio de relleno requerido por todos los lados de un elemento.*/
